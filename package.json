@@ -1,0 +1,33 @@
+{
+  "name": "erc-721_market",
+  "version": "1.0.0",
+  "description": "ERC-721 Marketplace",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alt-0222/ERC-Market.git"
+  },
+  "keywords": [
+    "contracts",
+    "erc-721",
+    "classifieds",
+    "blockchain",
+    "ethereum"
+  ],
+  "author": "Nerdpower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alt-0222/ERC-Market/issues"
+  },
+  "homepage": "https://github.com/alt-0222/ERC-Market#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "solc": "^0.8.17"
+  }
+}
